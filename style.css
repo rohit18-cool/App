@@ -1,0 +1,17 @@
+body {
+  font-family: ultramagnetic;
+  background-color: #b9dfe4;
+}
+
+p {
+  margin: 0;
+}
+
+.center {
+  text-align: center;
+  margin: auto;
+}
+
+.header {
+  font-size: 5.5vw;
+}
